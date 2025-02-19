@@ -2,7 +2,6 @@ import React from "react";
 import Card from "./Card";
 
 const CardContainer = () => {
-  // Aquí estamos usando URLs de imágenes, reemplázalas con las tuyas propias
   const cardsData = [
     {
       image: "https://digitalfuturesociety.com/app/uploads/2021/06/BDT_logo_becas_geeks_v2.jpg", 
@@ -46,7 +45,7 @@ const CardContainer = () => {
     },
   ];
 
-  return cardsData; // nos devuelve las imagenes texto y descripcion
+  return cardsData; 
 };
 
 export default CardContainer;
