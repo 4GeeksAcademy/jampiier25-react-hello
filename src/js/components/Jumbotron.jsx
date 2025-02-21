@@ -1,5 +1,5 @@
 import React from "react";
-import './Jumbotron.css'
+import "../../styles/Jumbotron.css"
 
 const Jumbotron = () => {
     return (

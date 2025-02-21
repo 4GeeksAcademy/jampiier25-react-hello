@@ -1,5 +1,5 @@
 import React from 'react';
-import './Navbar.css';
+import '../../styles/Navbar.css';
 
 const Navbar = () => {
   return (
@@ -14,7 +14,7 @@ const Navbar = () => {
             <a className="nav-link active" aria-current="page" href="#inicio">Home</a>
             <a className="nav-link" href="#acercade">About</a>
             <a className="nav-link" href="#servicios">System</a>
-            <a className="nav-link" href="#contactme">Contacto</a>
+            <a className="nav-link" href="#contactoo">Contacto</a>
           </div>
         </div>
       </div>

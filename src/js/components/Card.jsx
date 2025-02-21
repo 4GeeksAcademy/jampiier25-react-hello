@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Fragment } from "react";
 
 const Card = (props) => {
   const { image, title, description } = props.cards;

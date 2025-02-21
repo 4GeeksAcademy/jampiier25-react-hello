@@ -9,6 +9,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-.orion{
-    color: rgb(255, 145, 0);
+#bodyy{
+    margin-left: 2%;
+    margin-right: 2%;
+}
+#contactoo{
+    color: blue;
+
+}
+#contactoo:hover{
+    transform: scale(1.3);
+
 }

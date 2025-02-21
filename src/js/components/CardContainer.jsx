@@ -4,9 +4,10 @@ import Card from "./Card";
 const CardContainer = () => {
   const cardsData = [
     {
-      image: "https://digitalfuturesociety.com/app/uploads/2021/06/BDT_logo_becas_geeks_v2.jpg", 
-      title: "4Gekks",
-      description: "4Geeks: aprende tecnologías de vanguardia y transforma tu futuro profesional.",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5O9VF_gl5gExy_--7EGKP_0q3IyeAMI9VTg&s", 
+      title: "React",
+      description: "React: crea interfaces de usuario interactivas y dinámicas con facilidad y rendimiento.",
+    
     },
     {
       image: "https://www.datocms-assets.com/48401/1628644950-javascript.png",
@@ -23,15 +24,15 @@ const CardContainer = () => {
       title: "HTML5",
       description: "HTML5: potencia aplicaciones web con multimedia, gráficos y almacenamiento local sin plugins.",
     },
+    { 
+      image: "https://digitalfuturesociety.com/app/uploads/2021/06/BDT_logo_becas_geeks_v2.jpg", 
+      title: "4Gekks",
+      description: "4Geeks: aprende tecnologías de vanguardia y transforma tu futuro profesional.",
+    },
     {
       image: "https://www.linuxadictos.com/wp-content/uploads/python-logo.jpg", 
       title: "Python",
       description: "Python: lenguaje fácil de aprender, versátil y potente para todo tipo de proyectos.",
-    },
-    {
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5O9VF_gl5gExy_--7EGKP_0q3IyeAMI9VTg&s", 
-      title: "React",
-      description: "React: crea interfaces de usuario interactivas y dinámicas con facilidad y rendimiento.",
     },
     {
       image: "https://lh3.googleusercontent.com/csXm00pBuJvmhsXcI1XauxFGrE66sHBbWI9QyKY0lt2h55a1VaKl6F5TrlH0wBC_aijloKw9lh8a=e14-rj-sc0xffffff-w1270", 
