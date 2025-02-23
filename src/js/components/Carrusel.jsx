@@ -3,8 +3,8 @@ import React from "react";
 
 const carrusel = () => {
     return (
-        <div id="carouselExampleFade" class="carousel slide carousel-fade">
-        <div className="carousel-inner">
+        <div id="carouselExampleFade" class="carousel slide carousel-fade img-fluid">
+        <div className="carousel-inner img-fluid ">
           <div className="carousel-item active">
             <img src="https://i.blogs.es/a939eb/trabajo-en-remoto-en-verano/1366_2000.jpeg" class="d-block w-100" alt="..."></img>
           </div>

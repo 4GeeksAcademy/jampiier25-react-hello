@@ -5,7 +5,7 @@ import Card from "./Card.jsx";
 import CardContainer from "./CardContainer"; 
 import Footer from "./footer.jsx";
 import Carrusel from "./Carrusel.jsx";
-import datacontact from "./datacontact.jsx";
+import Inicio from "./Inicio.jsx";
 
 
 
@@ -25,19 +25,11 @@ const Home = () => {
             ))}
             </div>
             <Carrusel/>
-            <datacontact/>
-            <div> <br />
-              <div> <br />
-                <div> <br />
-                  <div> <br />
- 
-                  </div>
-                </div>
-              </div>
-            </div>
+            <Inicio/>
           </div>
         </div>
-        <div id="contactoo" className="classes">contacto</div>
+        <div id="contactoo" className="classes"><p>Para más información puedes contactarme a traves del siguiente enlace
+           <a className="allmylinks" href=" https://getallmylinks.com/jampiier25" target="blank"><b>CLICK AQUI</b></a></p></div>
         <Footer />
       </div>
     );

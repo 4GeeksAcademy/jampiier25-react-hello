@@ -12,12 +12,20 @@
 #bodyy{
     margin-left: 2%;
     margin-right: 2%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
 #contactoo{
-    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(24, 24, 25);
 
 }
 #contactoo:hover{
     transform: scale(1.3);
 
+}
+.h-100:hover{
+    transform: scale(1.1);
+}
+#forgeeks{
+    color: black;
 }
